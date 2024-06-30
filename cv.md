@@ -30,3 +30,10 @@ describe("Multiply", () => {
   });
 });
 ```
+
+## Education 
+- **Courses:** - rs.school
+
+## Languages
+- **Russian** - native speaker
+- **English** - B1
